@@ -29,6 +29,12 @@ for _ in range(3):
 	print('hello')
 ```
 
+- feat: Create adder.{py}
+
+- feat: Add Feature - Return sum of 2 numbers
+
+- fix: Rename Function add to adder
+
 만일 문장 안에서 코드 (예: `print('hello')`) 하이라이트가 필요하다면, backquote로 감싸주시면 됩니다.
 
 ## Credit
